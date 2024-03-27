@@ -2,9 +2,7 @@
 
 # - SOFTWARE - SOUND - LIGHTING JOCK -
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tarynblakemiller/)
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Yourfriendtaryn)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/tarynblakemiller)
+
 
 ## Software
 
@@ -19,3 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ableton)](https://skillicons.dev)
 
 <br/>
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tarynblakemiller/)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Yourfriendtaryn)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/tarynblakemiller)
