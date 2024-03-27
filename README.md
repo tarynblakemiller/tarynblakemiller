@@ -1,8 +1,10 @@
 # TARYN BLAKE MILLER
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://linkedin.com/tarynblakemiller)
+# - SOFTWARE - SOUND - LIGHTING JOCK -
 
-## Software Engineer, Sound Artist, and Lighting Jock
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tarynblakemiller/)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Yourfriendtaryn)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/tarynblakemiller)
 
 ## Software
 
