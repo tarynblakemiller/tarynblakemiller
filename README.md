@@ -32,4 +32,8 @@
 <img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/BROOKLYN%2C%20NY%20(1)/4.png"  />
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarynblakemiller)](https://github.com/tarynblakemiller/github-readme-stats)
+<br/>
+<!---
+<div align="center" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=tarynblakemiller&theme=transparent&show_icons=true" />
+</div>
