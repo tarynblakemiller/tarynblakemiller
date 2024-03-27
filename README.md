@@ -2,13 +2,8 @@
 # SOFTWARE
 
 
-![](https://skillicons.dev/icons?i=react,ts,js,html,css,sass)
+![](https://skillicons.dev/icons?i=react,ts,js,html,css,sass,express,nodejs,graphql,mysql,firebase,jest,vercel,heroku,docker,netlify,postman,postgres,git,github,figma&perline=11)
 
-![](https://skillicons.dev/icons?i=express,nodejs,graphql,mysql,firebase)
-
-![](https://skillicons.dev/icons?i=jest,vercel,heroku,docker,netlify)
-
-![](https://skillicons.dev/icons?i=postman,postgres,git,github,figma)
 
 ## CURRENTLY EXPLORING
 
