@@ -37,3 +37,4 @@
 <div align="center" width="100%">
 <img src="https://github-readme-stats.vercel.app/api?username=tarynblakemiller&theme=transparent&show_icons=true" />
 </div>
+https://github.com/Ileriayo/markdown-badges
