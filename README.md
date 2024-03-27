@@ -3,6 +3,7 @@
 # - SOFTWARE - SOUND - LIGHTING JOCK -
 
 
+
 # SOFTWARE
 
 
@@ -22,12 +23,3 @@
 
 
 [![test](https://github.com/tarynblakemiller/tarynblakemiller/blob/master/soundcloud_mix.png)](https://soundcloud.com/a2zradio/etiquette-i-trust-magic)
-
-
-
-
-<br/>
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tarynblakemiller/)
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Yourfriendtaryn)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/tarynblakemiller)
