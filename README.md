@@ -2,7 +2,7 @@
 # SOFTWARE
 
 
-![](https://skillicons.dev/icons?i=react,ts,js,html,css,sass,express,nodejs,graphql,mysql,firebase,jest,vercel,heroku,docker,netlify,postman,postgres,git,github,figma&perline=11)
+![](https://skillicons.dev/icons?i=react,ts,js,html,css,sass,express,nodejs,graphql,mysql,firebase,jest,vercel,heroku,docker,netlify,postman,postgres,git,github,figma,ableton&perline=11)
 
 
 ## CURRENTLY EXPLORING
@@ -16,12 +16,13 @@
 
 
 
-# SOUND [![My Skills](https://skillicons.dev/icons?i=ableton)](https://skillicons.dev)
+# SOUND 
 
 
-[<img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/soundcloud_mix.png" height="300" width="2482" />](https://soundcloud.com/a2zradio/etiquette-i-trust-magic)
+[<img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/SoundCloud-Logo.jpg" height="90" width="140" />](https://soundcloud.com/a2zradio/etiquette-i-trust-magic)
+[<img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/bandcamp-black3421.logowik.com.webp" height="90" width="140" />](https://etiquette-tbm.bandcamp.com/track/twice-remix)
 
 
 # LIGHTING
 
-<img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/IMG_7937.JPG" height="300" width="450" /><img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/sustain1.jpeg" height="300" width="450" /><img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/sustain2.jpeg" height="300" width="450" /><img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/IMG_7939.JPG" height="300" width="450" />
+<img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/sustain1.jpg" width="500" height="300" />
