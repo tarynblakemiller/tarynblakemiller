@@ -4,17 +4,25 @@
 
 
 
-## Software
+## SOFTWARE
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css&perline=3)](https://skillicons.dev)
 
-## Currently learning mobile development flutter/dart
+## CURRENTLY EXPLORING
+
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,)
 
 ## 🖥 &nbsp;Past work
 
-## Sound
+## SOUND
 
 [![My Skills](https://skillicons.dev/icons?i=ableton)](https://skillicons.dev)
+
+
+[![test](https://github.com/tarynblakemiller/tarynblakemiller/blob/master/Screenshot%202024-03-27%20at%2012.35.51%20AM.png)](https://soundcloud.com/a2zradio/etiquette-i-trust-magic)
+
+
+
 
 <br/>
 
