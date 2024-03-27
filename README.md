@@ -15,6 +15,8 @@
 
 # 🖥 &nbsp;Past work
 [![vice](https://github.com/tarynblakemiller/tarynblakemiller/blob/master/download.png)](https://www.vicemediagroup.com/)
+[![vice]()](https://i-d.co/)
+[![vice]()](https://www.refinery29.com/en-us)
 
 
 # SOUND
