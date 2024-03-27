@@ -2,6 +2,8 @@
 
 # - SOFTWARE - SOUND - LIGHTING JOCK -
 
+
+
 # SOFTWARE
 
 
@@ -11,7 +13,9 @@
 
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,)
 
-## 🖥 &nbsp;Past work
+# 🖥 &nbsp;Past work
+[![vice](https://github.com/tarynblakemiller/tarynblakemiller/blob/master/download.png)](https://www.vicemediagroup.com/)
+
 
 # SOUND
 
