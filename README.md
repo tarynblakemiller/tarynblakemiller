@@ -25,4 +25,4 @@
 
 # LIGHTING
 
-<img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/IMG_7937.JPG" height="300" width="450" /><img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/sustain1.jpeg" height="300" width="450" /><img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/sustain2.jpeg" height="300" width="450" /><img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/IMG_7939.JPG" height="300" width="450" />
+<img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/sustain1.jpg" />
