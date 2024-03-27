@@ -13,10 +13,8 @@
 
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,)
 
-# 🖥 &nbsp;Past work
-[![vice](https://github.com/tarynblakemiller/tarynblakemiller/blob/master/download.png)](https://www.vicemediagroup.com/)
-[![vice]()](https://i-d.co/)
-[![vice]()](https://www.refinery29.com/en-us)
+# Past work 🖥 &nbsp;
+[![vice](https://github.com/tarynblakemiller/tarynblakemiller/blob/master/download.png)](https://www.vicemediagroup.com/)   [![vice](https://github.com/tarynblakemiller/tarynblakemiller/blob/master/i-D.jpeg)](https://i-d.co/)    [![vice](https://github.com/tarynblakemiller/tarynblakemiller/blob/master/refinery.jpeg)](https://www.refinery29.com/en-us)
 
 
 # SOUND
