@@ -25,4 +25,4 @@
 
 # LIGHTING
 
-<img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/sustain1.jpg" />
+<img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/sustain1.jpg" width="500" height="300" />
