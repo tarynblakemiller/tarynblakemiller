@@ -2,13 +2,9 @@
 
 # - SOFTWARE - SOUND - LIGHTING JOCK -
 
-<<<<<<< HEAD
-## Software
-=======
-
 
 # SOFTWARE
->>>>>>> refs/remotes/origin/master
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css&perline=3)](https://skillicons.dev)
 
@@ -16,7 +12,9 @@
 
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,)
 
-## 🖥 &nbsp;Past work
+# 🖥 &nbsp;Past work
+[![vice](https://github.com/tarynblakemiller/tarynblakemiller/blob/master/download.png)](https://www.vicemediagroup.com/)
+
 
 # SOUND
 
