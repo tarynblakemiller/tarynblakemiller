@@ -1,3 +1,6 @@
+<div align="center" width="100%">
+<img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/banner.jpg" />
+</div>
 
 # SOFTWARE
 
