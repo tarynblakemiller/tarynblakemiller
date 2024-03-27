@@ -2,17 +2,31 @@
 
 # - SOFTWARE - SOUND - LIGHTING JOCK -
 
+<<<<<<< HEAD
 ## Software
+=======
+
+
+# SOFTWARE
+>>>>>>> refs/remotes/origin/master
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css&perline=3)](https://skillicons.dev)
 
-## Currently learning mobile development flutter/dart
+## CURRENTLY EXPLORING
+
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,)
 
 ## 🖥 &nbsp;Past work
 
-## Sound
+# SOUND
 
 [![My Skills](https://skillicons.dev/icons?i=ableton)](https://skillicons.dev)
+
+
+[![test](https://github.com/tarynblakemiller/tarynblakemiller/blob/master/soundcloud_mix.png)](https://soundcloud.com/a2zradio/etiquette-i-trust-magic)
+
+
+
 
 <br/>
 
