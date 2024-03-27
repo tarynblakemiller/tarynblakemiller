@@ -1,5 +1,5 @@
 <div align="center" width="100%">
-<img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/banner.jpg" />
+<img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/BROOKLYN%2C%20NY%20(1)/6.png" />
 </div>
 
 # SOFTWARE
@@ -28,4 +28,6 @@
 
 # LIGHTING
 
-<img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/sustain1.jpg" width="500" height="300" />
+<div align="center" width="100%">
+<img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/BROOKLYN%2C%20NY%20(1)/4.png"  />
+</div>
