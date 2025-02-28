@@ -5,12 +5,12 @@
 # SOFTWARE
 
 
-![](https://skillicons.dev/icons?i=react,ts,js,html,css,sass,express,nodejs,graphql,mysql,firebase,jest,vercel,heroku,docker,netlify,postman,postgres,git,github,figma,ableton&perline=11)
+![](https://skillicons.dev/icons?i=react,ts,js,html,css,sass,express,nodejs,nestjs,py,graphql,mysql,firebase,jest,aws,vercel,heroku,docker,redis,netlify,postman,postgres,git,github,figma,ableton&perline=11)
 
 
 ## CURRENTLY EXPLORING
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,) 
+![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,) 
 
 # PAST 🖥 
 [<img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/download.png" alt="vice" height ="80" width="80" />](https://www.vicemediagroup.com/)    [<img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/i-dvice.jpeg" alt="i-d" height ="80" width="80" />](https://i-d.co/)  [<img src="https://github.com/tarynblakemiller/tarynblakemiller/blob/master/Color-Refinery29-Logo.jpg" alt="refinery" height ="80" width="120" />](https://www.refinery29.com/en-us)
